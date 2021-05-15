@@ -1,0 +1,10 @@
+Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
+1. Chame os amigos;
+2. Decida entre si quem será o líder;
+3. Fiquem um ao lado do outro de frente para o líder;
+4. O líder dita as regras sendo: Vivo fica em pé e Morto abaixa, quem errar será eliminado;
+5. O líder grita Vivo;
+6. Se alguém ficou em pé continua na brincadeira, senão é eliminado;
+7. O líder grita Morto;
+8. Se alguém se abaixou continua na brincadeira, senão é eliminado;
+9. O líder continua gritando até que fique somente um que será o vencedor.
