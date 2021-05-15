@@ -1,0 +1,16 @@
+Faça um algoritmo que mostre o passo a passo 
+de um débito num caixa eletrônico
+
+1. Vá até o banco e se dirija a um caixa eletrônico;
+2. Pegue o cartão e coloque no caixa eletrônico;
+3. Clique na opção pagar conta;
+4. Digite a sua senha;
+5. Escolha o tipo de conta que quer pagar;
+6. Pegue a conta;
+7. Posiocione o código de barras da conta no leitor de códigos do caixa;
+8. Confira se a leitura foi feita corretamente;
+9. Se foi feita verifique se os valores estão corretos;
+10. Se sim confirme o débito da conta;
+11. Digite a sua senha novamente;
+12. Se aparecer a confirmação de pagamento e sair o comprovante, finalize e retire o cartão.
+13. Senão repita todos os passos a partir do passo 2.
