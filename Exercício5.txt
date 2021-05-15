@@ -1,0 +1,16 @@
+Faça um algoritmo que mostre o passo a passo 
+de um professor corrigindo uma pilha (de quantidade indefinida) 
+de provas, com 5 questões cada.
+
+1. Recolha as provas que os alunos fizeram;
+2. Vá até a mesa;
+3. Coloque a pilha de provas sobre a mesa;
+4. Sente-se e pegue uma caneta;
+5.Retire uma prova da pilha e coloque sobre a mesa;
+6. Análise a primeira questão, se estiver correta colocar certo, senão colocar errado;
+7.Análise a segunda questão, se estiver correta colocar certo, senão colocar errado;
+8.Análise a terceira questão, se estiver correta colocar certo, senão colocar errado;
+9. Análise a quarta questão, se estiver correta colocar certo, senão colocar errado;
+10. Análise a última questão, se estiver correta colocar certo, senão colocar errado;
+11. Coloque a prova em um canto da mesa.
+12. Repita todos os passos a partir do passo 5 até acabar todas as provas.
