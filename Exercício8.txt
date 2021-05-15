@@ -1,0 +1,6 @@
+Faça um algoritmo que descubra se um número é par ou ímpar.
+
+1. Digite um número;
+2. Divida esse número por 2;
+3. Se o resto da divisão for 0 o número é par;
+4. Senão o número é ímpar.
