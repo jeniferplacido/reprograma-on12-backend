@@ -1,0 +1,7 @@
+Faça um algoritmo que some três números.
+1. Digite um número;
+2. Digite um segundo número;
+3.Digite um terceiro número;
+4. Faça a seguinte soma número1+número2+número3
+6. Mostre o resultado, se estiver correto exiba na tela.
+7. Senão faça a soma novamente;
